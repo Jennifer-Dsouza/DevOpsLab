@@ -1,0 +1,6 @@
+Purpose
+
+This Lab will help to understand the following operations.
+1) Add
+2) Commit
+3) Branch
